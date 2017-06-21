@@ -1,0 +1,9 @@
+<resources>
+    <fonts>
+        <font id="id_font_v14" filename="fonts/v14.fnt" />
+		<font id="id_font_v21" filename="fonts/v21.fnt" />
+		<font id="id_font_v24" filename="fonts/v24.fnt" />
+        <font id="id_font_v28" filename="fonts/v28.fnt" />
+        <font id="id_font_v32" filename="fonts/v32.fnt" />
+    </fonts>
+</resources>
